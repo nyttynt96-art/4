@@ -47,3 +47,5 @@ Make sure to set the following environment variables in your Netlify project set
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run linter
+
+Note: small edit to trigger Netlify redeploy.
